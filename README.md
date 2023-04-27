@@ -1,2 +1,2 @@
 # DGMF
-Domain-Aware Multi-Frequency Underwater Image Enhancement Network
+Domain-Guided Multi-Frequency Underwater Image Enhancement Network
